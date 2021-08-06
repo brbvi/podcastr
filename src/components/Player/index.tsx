@@ -11,7 +11,7 @@ export function Player() {
   return (
     <Container>
       <header>
-        <img src="./playing.svg" alt="Tocando agora" />
+        <img src="/playing.svg" alt="Tocando agora" />
         <strong>Tocando agora</strong>
       </header>
 
